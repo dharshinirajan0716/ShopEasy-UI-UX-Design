@@ -2,8 +2,8 @@
 UI/UX design for a mobile e-commerce application created in Figma.
 
 
-# Features
+## Features
 Welcome Screen, Sign Up Screen, Email Verification Screen, Profile Setup Screen, Account Created Success Screen.
 
-# Tools Used
+## Tools Used
 Figma, UI/UX Design Principles.
